@@ -1,0 +1,5 @@
+{
+  "driver_url" : "https://drive.google.com/drive/my-drive",
+  "login": "identifier",
+  "password": "Passwd"
+}
